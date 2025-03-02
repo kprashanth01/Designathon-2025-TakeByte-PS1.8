@@ -1,7 +1,7 @@
-# FactCheck Bot
+#  VerifiBot
 
 A Telegram bot that verifies information accuracy and detects deepfakes using AI-powered analysis.
-
+find it [here](https://t.me/fakealertbot)
 ## 🔍 Overview
 
 FactCheck Bot helps fight misinformation by automatically analyzing claims against reliable sources, extracting text from images, and detecting manipulated media. It provides evidence-based verdicts on the truthfulness of claims and can identify signs of AI manipulation in images.
