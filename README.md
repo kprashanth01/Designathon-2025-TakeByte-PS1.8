@@ -1,7 +1,7 @@
 # Designathon 2025 - TakeByte PS1.8
 
 ## Description
-The project is a fact-checking application that allows users to verify claims and information through a **Telegram bot** (refer telegram-bot folder) and a **web interface**. The application leverages various **APIs** and **machine learning models** to analyze claims and provide reliable information.
+The project is a fact-checking application that allows users to verify claims and information through a **Telegram bot** (refer telegram-bot folder for only-bot.py) and a **web interface**. The application leverages various **APIs** and **machine learning models** to analyze claims and provide reliable information.
 
 ---
 
