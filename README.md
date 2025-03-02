@@ -1,5 +1,3 @@
-# Designathon-2025-TakeByte-PS1.8
-````markdown
 # Designathon 2025 - TakeByte PS1.8
 
 ## Description
@@ -32,50 +30,3 @@ The Designathon 2025 project is a fact-checking application that allows users to
    ```bash
    git clone https://github.com/yourusername/Designathon-2025-TakeByte-PS1.8.git
    cd Designathon-2025-TakeByte-PS1.8/ui-one
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-### Backend
-1. Navigate to the backend directory:
-   ```bash
-   cd Designathon-2025-TakeByte-PS1.8/telegram-bot
-   ```
-2. Create a virtual environment (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the FastAPI server:
-   ```bash
-   uvicorn main:app --reload
-   ```
-
-## Usage
-- Access the frontend application in your browser at `http://localhost:3000`.
-- Interact with the chat interface to verify claims.
-- Use the Telegram bot by sending a message to the bot to analyze claims.
-
-## Commands
-- `/start`: Begin using the bot.
-- `/help`: Show help information about how to use the bot.
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Thanks to the contributors and libraries that made this project possible.
-````
