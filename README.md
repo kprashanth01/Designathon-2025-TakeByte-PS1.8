@@ -1,7 +1,7 @@
 # Designathon 2025 - TakeByte PS1.8
 
 ## Description
-The Designathon 2025 project is a fact-checking application that allows users to verify claims and information through a Telegram bot and a web interface. The application leverages various APIs and machine learning models to analyze claims and provide reliable information.
+The project is a fact-checking application that allows users to verify claims and information through a Telegram bot and a web interface. The application leverages various APIs and machine learning models to analyze claims and provide reliable information.
 
 ## Technologies Used
 
@@ -10,7 +10,6 @@ The Designathon 2025 project is a fact-checking application that allows users to
 - **TypeScript**: A superset of JavaScript that adds static types.
 - **Vite**: A build tool for fast development and optimized production builds.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
-- **Framer Motion**: A library for animations in React applications.
 - **Lucide React**: An icon library for React.
 - **Axios**: A promise-based HTTP client for making requests to APIs.
 
@@ -19,7 +18,7 @@ The Designathon 2025 project is a fact-checking application that allows users to
 - **FastAPI**: A modern web framework for building APIs.
 - **python-telegram-bot**: A library for building Telegram bots.
 - **Requests**: A simple HTTP library for Python.
-- **BeautifulSoup**: A library for parsing HTML and XML documents.
+- **Trafilatura**:Python library for web scraping and content extraction.
 - **NLTK**: The Natural Language Toolkit for text processing.
 - **Google APIs**: For accessing Google's Fact Check API and other services.
 
