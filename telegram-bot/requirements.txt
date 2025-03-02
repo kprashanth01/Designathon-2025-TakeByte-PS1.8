@@ -1,0 +1,13 @@
+python-telegram-bot
+requests
+python-dotenv
+google-genai
+google-api-python-client
+firecrawl
+wikipedia-api
+nltk
+duckduckgo-search
+beautifulsoup4
+fastapi
+uvicorn
+pydantic
